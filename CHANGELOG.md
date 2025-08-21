@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/amondnet/my-turborepo/compare/v1.0.0...v1.0.1) (2025-08-21)
+
+
+### Bug Fixes
+
+* **ui:** correct typo in button alert text ([3f4e70b](https://github.com/amondnet/my-turborepo/commit/3f4e70b4d79c599cd25152b5ecf702e3aaf7dc04))
+
 ## 1.0.0 (2025-08-21)
 
 
