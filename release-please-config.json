@@ -2,16 +2,18 @@
   "include-component-in-tag": true,
   "include-v-in-tag": true,
   "tag-separator": "@",
-  "separate-pull-requests": false,
   "packages": {
     "packages/ui": {
-      "release-type": "node"
+      "release-type": "node",
+      "component": "ui"
     },
     "app/docs": {
-      "release-type": "node"
+      "release-type": "node",
+      "component": "docs"
     },
     "app/web": {
-      "release-type": "node"
+      "release-type": "node",
+      "component": "web"
     }
   },
   "plugins": [
