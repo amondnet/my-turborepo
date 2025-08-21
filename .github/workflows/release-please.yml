@@ -22,3 +22,6 @@ jobs:
           # this is a built-in strategy in release-please, see "Action Inputs"
           # for more options
           release-type: simple
+          # Use config file for monorepo setup
+          config-file: release-please-config.json
+          manifest-file: .release-please-manifest.json
